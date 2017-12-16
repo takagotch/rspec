@@ -1,10 +1,10 @@
 controllers
 experiments #mysettings
-factories #
+factories #default_models
 features #capybara
 models 
 routing 
-services #mysettings#
+services #mysettings
 support #module
 spec_helper.rb
 rails_helper.rb
