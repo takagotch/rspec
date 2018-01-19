@@ -1,4 +1,6 @@
-#should
+it { should         eq('ex@ex.com') }
+it { is_expected.to eq('ex@ex.com') }
+
 
 http://rspec.info/help/
 ---
