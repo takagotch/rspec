@@ -1,5 +1,6 @@
-http://rspec.info/help/
+#should
 
+http://rspec.info/help/
 ---
 controllers
 experiments #mysettings
