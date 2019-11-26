@@ -1,7 +1,9 @@
 ### rspec
-
+---
+```
 it { should         eq('ex@ex.com') }
 it { is_expected.to eq('ex@ex.com') }
+```
 
 https://github.com/rspec/rspec-expectations
 
