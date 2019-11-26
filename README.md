@@ -9,7 +9,7 @@ https://github.com/rspec/rspec-expectations
 
 http://rspec.info/help/
 
----
+```
 controllers
 experiments #mysettings
 factories #default_models
@@ -20,6 +20,7 @@ services #mysettings
 support #module
 spec_helper.rb
 rails_helper.rb
+```
 
 
 ```
